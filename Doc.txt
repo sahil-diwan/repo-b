@@ -1,7 +1,1 @@
-<<<<<<< HEAD
-Hi This is Sahil Diwan. This is my first commit in the repository.
-Added code in the feature branch.
-=======
-Hi This is Sahil Diwan. This is my first commit in the repository-b.
-Test is my new thing.
->>>>>>> repo-b/master
+
